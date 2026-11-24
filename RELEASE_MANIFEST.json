@@ -1,0 +1,554 @@
+{
+  "files": [
+    {
+      "path": ".env.example",
+      "size": 113,
+      "sha256": "0ec2d54159c801a34296b5a16f679459db8a1335f9f30e3ca15b4175c493dd7e"
+    },
+    {
+      "path": ".gitignore",
+      "size": 256,
+      "sha256": "861353ed347ed6899042b09314ef401453a5802dcd6d5b3c9cd033039363fac0"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 1577,
+      "sha256": "5ea126838179fa1a07923b075767113e933d6605f05a62791f042f285f6c4ff1"
+    },
+    {
+      "path": "CITATION.bib",
+      "size": 415,
+      "sha256": "f32064f1443261432ba58378d71b5b739c747770b4b8299b759e3344807cfdc9"
+    },
+    {
+      "path": "CITATION.cff",
+      "size": 403,
+      "sha256": "aa79cfd7cd92166ef2a551df4535822a3b12c9871ea2a793de348e74fdbb92b6"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1098,
+      "sha256": "c3330dd2e8054b2c30ebeccce0f8558757fcba862cd6aee94d80eb532598d066"
+    },
+    {
+      "path": "Makefile",
+      "size": 568,
+      "sha256": "2c099ee3365aba94dce08238aa6f192d0cffb2fa1f25121b4a85812d3ffb9e50"
+    },
+    {
+      "path": "README.md",
+      "size": 6069,
+      "sha256": "2e97f1e94306908b8b01472ba945ec9b3cdb71c6ec12724304d287db18f983ad"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "size": 7862,
+      "sha256": "f27e35dbe1d40041303e3fbf87392b86d831018e1cecde602b9fa3b8c1194995"
+    },
+    {
+      "path": "VALIDATION.md",
+      "size": 4958,
+      "sha256": "563292b759c7eb1994243e71e013730c9a1762a64fb77518097c5db3b7cd6d95"
+    },
+    {
+      "path": "configs/analysis.json",
+      "size": 211,
+      "sha256": "ceed3f403ae269943433892838e3626040e41b9371c7f7dd35390316fe8c9a09"
+    },
+    {
+      "path": "configs/source_checksums.json",
+      "size": 198,
+      "sha256": "dbf358bb486e67a3576d62da65e93951e5dfabbd5fa374117ba8d3cc7c796c03"
+    },
+    {
+      "path": "docs/data-access.md",
+      "size": 4293,
+      "sha256": "56613f256ee636dae0f76b4e65691567631a14dfdb660a3c7f7b96f1bff244f4"
+    },
+    {
+      "path": "docs/inference.md",
+      "size": 6331,
+      "sha256": "c7c372246289da85d7ce6875b4fa850eb3080233787f7db3f9b2b5c40947eb0e"
+    },
+    {
+      "path": "docs/paper-map.md",
+      "size": 2915,
+      "sha256": "e5115ec087900863c5987acfc7c69daf11d90830cd842b12fbf4374646aa8d2b"
+    },
+    {
+      "path": "docs/prominence.md",
+      "size": 4313,
+      "sha256": "cd9034de249c048fb9632827b3a4cea4bb39f850997f9268476cb0430d33d253"
+    },
+    {
+      "path": "docs/provenance.md",
+      "size": 3623,
+      "sha256": "fcf68a864c90308533152a2b9a84255d1b6a6ca10678ba5a953aa177a877bb03"
+    },
+    {
+      "path": "docs/records.md",
+      "size": 1488,
+      "sha256": "fb661dcf1c77d581a17f1e65345373c5ef5eb83e71c12a78f5678204dec5155c"
+    },
+    {
+      "path": "docs/statistics.md",
+      "size": 2838,
+      "sha256": "753cfc7fffbc864056a8949667ece848b99412644b8955a2db203e380e77b043"
+    },
+    {
+      "path": "manifests/preprocessing.json",
+      "size": 20259775,
+      "sha256": "8cb37dca901741a4aba90bbb63d04ded8253ff4955c604fd34c6f6c1135e9f3e"
+    },
+    {
+      "path": "manifests/recognition_corrections.csv",
+      "size": 3220,
+      "sha256": "7fd941126d88f76c3747420e7ca92df4defebda0779a2374f84f41510863828d"
+    },
+    {
+      "path": "manifests/sample.csv",
+      "size": 36708,
+      "sha256": "54d861b3b879d1d87a62f904782671f06d4a7fba27a2dbbebbd8af0434d27069"
+    },
+    {
+      "path": "manifests/speeches.csv",
+      "size": 15187,
+      "sha256": "8e32e25560f6cd567da902fa952f12bce06eb9fe5295d3403349cea13630daa8"
+    },
+    {
+      "path": "manifests/wiki_sources.csv",
+      "size": 11390,
+      "sha256": "f46a75ad8565e74d6cbd4cb5d30ecdb0aa6fd7a4198993336456d516d1dc8e23"
+    },
+    {
+      "path": "measurements/prominence_2026-07-06.csv",
+      "size": 17280,
+      "sha256": "f42bbf4b37e177e62741ea0801881dccd9cc172cffd92b111c944b54c3457300"
+    },
+    {
+      "path": "pinf/__init__.py",
+      "size": 70,
+      "sha256": "edcddb941317d54dfb057514d91e0cdd933bf0e7b0c3a31149150b7703d1f5a8"
+    },
+    {
+      "path": "pinf/analysis.py",
+      "size": 1179,
+      "sha256": "481d0ad5183d232b9aec7313c422d4281e869e27fa737ad92b4e0a40c3ddc5f8"
+    },
+    {
+      "path": "pinf/anonymize.py",
+      "size": 1585,
+      "sha256": "331d123c6ab7452bba8ed6d3f11bc3e0f6d38fd00b2d80a6507c9d3a4311b7d5"
+    },
+    {
+      "path": "pinf/config.py",
+      "size": 5178,
+      "sha256": "001452585a6d692b7d3d8cc2cf98974a55b22a3aa8454a68da025745b57948d8"
+    },
+    {
+      "path": "pinf/instrument.py",
+      "size": 10147,
+      "sha256": "4220b25e7c37781908588a314bce6a1e76a780f16f02d6c0fca40992aa7eac52"
+    },
+    {
+      "path": "pinf/metrics.py",
+      "size": 13637,
+      "sha256": "e694438c3230445015480c075084ec4ae494017477281767cd101cba5767b26a"
+    },
+    {
+      "path": "pinf/schema.py",
+      "size": 4698,
+      "sha256": "d1415153a71ed6f014f8e0817745f8f7c4fb1f9c242b2fcdd82f59e110636e4c"
+    },
+    {
+      "path": "pyproject.toml",
+      "size": 823,
+      "sha256": "9006cdc69992888457a1f16abd6cc2d3664dcd8c2c5f443d21a26d9f200a414f"
+    },
+    {
+      "path": "records/ratings.jsonl",
+      "size": 8604825,
+      "sha256": "cb2a4d860835a9e49850a780c391aac348d9e6c8e33a58e19f8730a456084d72"
+    },
+    {
+      "path": "records/recognition.jsonl",
+      "size": 235504,
+      "sha256": "7d6699ec4ab9c4e1713a57aa4139e32bbe4c438ebeaf8b3a577f9dee9582d394"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "size": 260,
+      "sha256": "c6f90f82e27b91c431e34ebe642eb03acafd154e86784ee05a43c65479ee95e6"
+    },
+    {
+      "path": "results/expert_ceiling.json",
+      "size": 17415,
+      "sha256": "ee0a1582c38557052da118e48cfe2be28fc042afd842c93a2c2b4859c963e902"
+    },
+    {
+      "path": "results/fame_gradient/desirability_by_prominence.csv",
+      "size": 6092,
+      "sha256": "ba4e7294033f43cedc77db33fdad49a204e14eac6da63f637d21b0581adfc13e"
+    },
+    {
+      "path": "results/fame_gradient/fame_gradient_by_tertile.csv",
+      "size": 3600,
+      "sha256": "b74636483b322c17072da6b4749c93713c272ff3a583e804a24ea4a63ae9eb50"
+    },
+    {
+      "path": "results/fame_gradient/fame_gradient_tertile_gap.csv",
+      "size": 1000,
+      "sha256": "f2bfbac459f305d09259feefadd58c54c96693e9dc19b2b0745fa7cb227f611a"
+    },
+    {
+      "path": "results/identity_baselines/comparison_by_trait_gpt55.csv",
+      "size": 4584,
+      "sha256": "8ca0b02a50a95a8926e92b181ea47f0dc9bea1804b16ed1fb98880d5dabb6689"
+    },
+    {
+      "path": "results/identity_baselines/comparison_by_trait_open.csv",
+      "size": 20686,
+      "sha256": "445360a61d62d2f1c9761c20b9386c4a86d2f6253de02203131ec51a27cdb56c"
+    },
+    {
+      "path": "results/identity_baselines/comparison_overall_gpt55.csv",
+      "size": 1916,
+      "sha256": "113e8c7c4fe021f437c44cf7849134b7b288c24cf2aecffc934e5b32b846fca6"
+    },
+    {
+      "path": "results/identity_baselines/comparison_overall_open.csv",
+      "size": 4928,
+      "sha256": "1ad8289ca41a3b68048c293e79d09281196a226939cbd7664fdbd71e7ec0eaa7"
+    },
+    {
+      "path": "results/ideology/adjusted_convergence_aggregate.csv",
+      "size": 16138,
+      "sha256": "e1d902a29fac030ee64f75fa61b0f066cc2f35872a86870650475d906329ec9a"
+    },
+    {
+      "path": "results/ideology/adjusted_convergence_trait.csv",
+      "size": 97478,
+      "sha256": "a0addfda382a2f1a2458e4fcf088743328b07d0155f8e2a23d7f7bd641cd9a3b"
+    },
+    {
+      "path": "results/ideology/ideology_gradients.csv",
+      "size": 122971,
+      "sha256": "16941d04603f9924c07639f7fda3ad4463ce318f1c89c3f73f895d94e56dc5bb"
+    },
+    {
+      "path": "results/ideology/metadata_baseline.csv",
+      "size": 3490,
+      "sha256": "3a65787873a99a7de27227fcc4b2eeaee755f04ecff918db56bde2f8bc7b650a"
+    },
+    {
+      "path": "results/ideology/metadata_identity_uniqueness.csv",
+      "size": 720,
+      "sha256": "37c4aa92e73238c340b36a1665891d72741e96d914c55cfbf11847baa79469a2"
+    },
+    {
+      "path": "results/ideology/role_context_inventory.csv",
+      "size": 266,
+      "sha256": "1912345489a1a032734747639d7eb1f2fce72fd286d73db69f844a5e3de9d640"
+    },
+    {
+      "path": "results/language/family_convergence_change_did.csv",
+      "size": 1186,
+      "sha256": "757cd1eff752202c08faeef0424f39bb5dce36aca32fdf3bb70c9d8672387fab"
+    },
+    {
+      "path": "results/language/family_convergence_gap.csv",
+      "size": 1593,
+      "sha256": "40f759573203b8d3cfb7e74c892c9a292203d431ac32461a1ab446c39d3c9895"
+    },
+    {
+      "path": "results/language/leave_one_language_out_summary.csv",
+      "size": 1605,
+      "sha256": "6f8f14dce0cfea6b030b3c757bca7d8e749205bdcccbc6ac6889750fe9c235ee"
+    },
+    {
+      "path": "results/metrics/anon_by_recognition.csv",
+      "size": 26508,
+      "sha256": "15a5655b9b77c520db02badf64c96912b10941ea31375b74258bfa368a9e3c51"
+    },
+    {
+      "path": "results/metrics/ceiling_sensitivity.csv",
+      "size": 3173,
+      "sha256": "a2af7bc0fc6eda413123b005e61d175255b74a35a69cbb879272089b3ca85fd5"
+    },
+    {
+      "path": "results/metrics/convergence.csv",
+      "size": 33367,
+      "sha256": "39f2132bce60636509249d8879a274cb31b031cd8f79d1d10b4e223301b19545"
+    },
+    {
+      "path": "results/metrics/convergence_aggregates.csv",
+      "size": 8081,
+      "sha256": "6026e67af00751bf4fa8e0ec2f7440ccc3714aff0b97384f4d6619545e334a2e"
+    },
+    {
+      "path": "results/metrics/directional_bias.csv",
+      "size": 11167,
+      "sha256": "092c70ec9944c8d8228d99d8fbb2eba6d27bb271d91c126fc8af7fd214a34188"
+    },
+    {
+      "path": "results/metrics/evidence_contrasts.csv",
+      "size": 52693,
+      "sha256": "22002610d454b7609c5934c75ad06f882d22918a1f09d1c9c59a65ea8ad92f22"
+    },
+    {
+      "path": "results/metrics/framing_contrasts.csv",
+      "size": 27870,
+      "sha256": "52b39e5d9befb260bef6b9e7c63479e69786722f385d4cab31b3bf07145aaf56"
+    },
+    {
+      "path": "results/metrics/model_contrasts.csv",
+      "size": 121668,
+      "sha256": "2f7dab20979d786e95aa004a630917db04ae4598064921e951abb23c1571208c"
+    },
+    {
+      "path": "results/metrics/reid_recognition_bridge.csv",
+      "size": 11088,
+      "sha256": "b037a95cd5e56d7aa97a784c4fcf055fea4b30ce6763e649369330fc5d2de7a8"
+    },
+    {
+      "path": "results/metrics/reid_recognition_gpt-5.5_bridge.csv",
+      "size": 3943,
+      "sha256": "250684e471d65832c74f1f0a53b2fdd5e3a9ab30b433b184487e04dff64b23ee"
+    },
+    {
+      "path": "results/metrics/reliability_icc.csv",
+      "size": 8971,
+      "sha256": "12587a085b12dc2b6fa788d2b1419f308ad886d778a0d592a9b60b25d92d0ded"
+    },
+    {
+      "path": "results/metrics/reliability_icc_rollup.csv",
+      "size": 3463,
+      "sha256": "4a348c60ddb51557b8e52c1eab407a6ff8d5ee44e489ef77b80a37f2809f3acd"
+    },
+    {
+      "path": "results/metrics/speech_convergence.csv",
+      "size": 77140,
+      "sha256": "bf8b6a81221981c717cce747ea2a9500f5ea48086f2d50a492557dc56cdea0aa"
+    },
+    {
+      "path": "results/metrics/speech_model_contrasts.csv",
+      "size": 329815,
+      "sha256": "bb99f1df55b63366ff5ecef067a4735c809f38f8d7137d7b2654e27e8dfc1a58"
+    },
+    {
+      "path": "scripts/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scripts/audit_release.py",
+      "size": 15216,
+      "sha256": "8b7aedcc27e72ca09874b575556f7b994b405be770a408d0df1dfec840f99235"
+    },
+    {
+      "path": "scripts/build_inputs.py",
+      "size": 6855,
+      "sha256": "ac7d745801d0cb1e94750b120cf286e57c710f849d360d207ad5e23ee303fe84"
+    },
+    {
+      "path": "scripts/ceiling_sensitivity.py",
+      "size": 2305,
+      "sha256": "0c05f59918969add8883f9a1e445d5160db83d5d40be07e26271d899c158c095"
+    },
+    {
+      "path": "scripts/contrast_metrics.py",
+      "size": 23562,
+      "sha256": "d99e0d7ca644ed2ef830462518e5a21158a586d0aea3481863cea7690ce229dc"
+    },
+    {
+      "path": "scripts/desirability_by_prominence.py",
+      "size": 5260,
+      "sha256": "82b2b4b245612d6de4126a3e7afbe4cc2a219bf4dba79f7d3209168951d31492"
+    },
+    {
+      "path": "scripts/expert_ceiling.py",
+      "size": 9032,
+      "sha256": "03f01d57a22d1585459e01ca17175a5d086a323841e220da23157e769f132bde"
+    },
+    {
+      "path": "scripts/fame_gradient_metrics.py",
+      "size": 5617,
+      "sha256": "45ec81c2e80de21652d055c4cb0f5306d164e4b497cc1aaea5e04e7a4fb732fd"
+    },
+    {
+      "path": "scripts/fetch_prominence.py",
+      "size": 8756,
+      "sha256": "688686db3dd44c92fde86fd190aedef255ad7c363897779bfcf01efffca9f442"
+    },
+    {
+      "path": "scripts/identity_baselines.py",
+      "size": 10916,
+      "sha256": "bb3f5691268997303cb3f8268e1b9fefb5cdb9baf94e32d2c9271be49b0eb07f"
+    },
+    {
+      "path": "scripts/ideology.py",
+      "size": 34125,
+      "sha256": "ec2842d701685a6ff53601520d1607e43be7b6a900cb50a603d3216f83174d4f"
+    },
+    {
+      "path": "scripts/language_checks.py",
+      "size": 12753,
+      "sha256": "a250a5334b523f6fa50d99e2ad7243563575eb100bb0fc1e2c4640bd914ccadc"
+    },
+    {
+      "path": "scripts/make_figure_convergence_bias.py",
+      "size": 8061,
+      "sha256": "7c67c2559086ffd1ae711409599ba0d6e76d55ec8db50a2719bdf305d2038037"
+    },
+    {
+      "path": "scripts/make_figure_overview_single.py",
+      "size": 4502,
+      "sha256": "fa5701895aefe30e38aafd2541f3c4774ee082a10fc888955743866c31426fa7"
+    },
+    {
+      "path": "scripts/merge_runs.py",
+      "size": 2473,
+      "sha256": "61f2ec552ff8014515622aa46d716e225ec6b2bde6687f29456b1a31fd95c368"
+    },
+    {
+      "path": "scripts/modal_app.py",
+      "size": 4027,
+      "sha256": "3835f7e96899f512a3297ed763f6a41793f4d40ed67a4ddc469d182cc1b362f9"
+    },
+    {
+      "path": "scripts/name_sweep_metrics.py",
+      "size": 7774,
+      "sha256": "7686aac0b447f806fb094776dc33609f36d6013bac5e47b9dbf6c9984f346e3a"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "size": 1268,
+      "sha256": "6a145cadc9d9b8310aa0c4537c7688bd2c4a81ea5c32694bccf0f0ce4e0bd6c2"
+    },
+    {
+      "path": "scripts/prepare_records.py",
+      "size": 3118,
+      "sha256": "f98b84d0ed7024b17da7623f66be8d62a5fcd240c31e9f040f772bfb4bbd9de6"
+    },
+    {
+      "path": "scripts/prepare_speeches.py",
+      "size": 2584,
+      "sha256": "da0972747a7bcc2ca49d498f8b7ce580241eecc07959e3def9d7e0ad114daa4e"
+    },
+    {
+      "path": "scripts/prominence_analysis.py",
+      "size": 3430,
+      "sha256": "2cebb66b720b2909d91232cc3c72fcd6901fc8565cf5762eeaed9950836b34ae"
+    },
+    {
+      "path": "scripts/run_analysis.py",
+      "size": 3589,
+      "sha256": "c03d578a1e93cac5a3bd27e636ab492c8cc53517856a94e74fefe059158f3857"
+    },
+    {
+      "path": "scripts/run_models.py",
+      "size": 15822,
+      "sha256": "a05354dab24ba0bbb54fb4949c6ba709cb502d555d937edb7417365bd7f94e2e"
+    },
+    {
+      "path": "scripts/speech_metrics.py",
+      "size": 19868,
+      "sha256": "1872a330348767e4a62c406302b83b63727aff5d6fdae84100a164cfd3d120f5"
+    },
+    {
+      "path": "scripts/speech_model_contrasts.py",
+      "size": 7105,
+      "sha256": "f821b2912ff8498eb6339e8c54bf767e1e4689fecbb1c9e91224ccc2b6bb3a9d"
+    },
+    {
+      "path": "scripts/update_manifest.py",
+      "size": 922,
+      "sha256": "033384bf38789942cba3d040ee511e80bc36a3c7dbdd07c30188dbb8f2fa8138"
+    },
+    {
+      "path": "tests/test_analysis_assembly.py",
+      "size": 1854,
+      "sha256": "cdeb565afb59db5a096548f1608ebe12cc7ffebed22f6e21278293f3c2059c49"
+    },
+    {
+      "path": "tests/test_contrast_batching.py",
+      "size": 1702,
+      "sha256": "489dec289775d50b666ef50a4e6b18111c800f074a129f81d401a1e076916362"
+    },
+    {
+      "path": "tests/test_data_preparation.py",
+      "size": 5517,
+      "sha256": "afa6b83ebb161dc5f97375423b198012543f8ac725b36086101b9cab5b0ad11b"
+    },
+    {
+      "path": "tests/test_identity_baselines.py",
+      "size": 6097,
+      "sha256": "c0a675dd218ee4440b2840f3f64f6b8889e6d984dc12caec201128b3ff182241"
+    },
+    {
+      "path": "tests/test_ideology.py",
+      "size": 9196,
+      "sha256": "8ef56666d8e6a3a5af95e2be0bd470bef6f51a25ecf882f3fd2f537d8ed097c2"
+    },
+    {
+      "path": "tests/test_language_checks.py",
+      "size": 7314,
+      "sha256": "c644dda684cfe51b9f81dd8f30410b8c11162c9f45761f79243f3252492740cc"
+    },
+    {
+      "path": "tests/test_merge.py",
+      "size": 3035,
+      "sha256": "f5555c8a2b0e2125ad2c5d392fb484dd4d4b6c7f0bd0639ead9013dce9e9fcca"
+    },
+    {
+      "path": "tests/test_packaging.py",
+      "size": 1091,
+      "sha256": "10f5fe141198b33c4233540edff509cf1dca8286b039797909e1f14f53778e42"
+    },
+    {
+      "path": "tests/test_preprocessing.py",
+      "size": 2220,
+      "sha256": "990995a305acd4f98de8f2396ad8185c106ee778bc134ab5ac41177c6ab17fe9"
+    },
+    {
+      "path": "tests/test_prominence.py",
+      "size": 4884,
+      "sha256": "be0a90e3ef555e07366b9698d7a877772dc9ecaec7e0e498f4516d6750dda374"
+    },
+    {
+      "path": "tests/test_prominence_analysis.py",
+      "size": 919,
+      "sha256": "c47e62eb6df065fe4f1bfee13859e9be180c71851414ca1c12b2df6628a90d12"
+    },
+    {
+      "path": "tests/test_prominence_snapshot.py",
+      "size": 2698,
+      "sha256": "b00def13e3068827a9b7f2cec2740b8daf9e8469f9d6c48822ed2eea0bc4cf8f"
+    },
+    {
+      "path": "tests/test_release_boundary.py",
+      "size": 6846,
+      "sha256": "f31d4d0c3656155621a50568cb8772b5c62865d10f81cfa7d4a4679ee3dbc07b"
+    },
+    {
+      "path": "tests/test_reproduction.py",
+      "size": 2744,
+      "sha256": "fc1984e2b445d8b6be626ec5b3ec42e4675b1cc6e3caef02cffff07040a351af"
+    },
+    {
+      "path": "tests/test_runner.py",
+      "size": 11884,
+      "sha256": "5ae927785aa1481a37ec6734890987582e96fb808c42ab6bbcd3a449b0c6c575"
+    },
+    {
+      "path": "tests/test_statistics.py",
+      "size": 2591,
+      "sha256": "56920998d9b74573699d49c10ddd9974ae147f445036ec10e38927ea3d27d58b"
+    },
+    {
+      "path": "tests/test_supplementary_reproduction.py",
+      "size": 2630,
+      "sha256": "16bc1b83e70172e2fcf5d71cc4b0c4a7515785a420803f8af16922fae26b0501"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper using CITATION.bib. Its publication details are provisional."
+title: "Reading the Speech or Recalling the Speaker? LLM Personality Ratings of Politicians Against Expert Judgment"
+type: software
+authors:
+  - family-names: Kommandeur
+    given-names: Jesse
+  - family-names: Dell'Orto
+    given-names: Alessandro
+version: 0.1.0
+license: MIT

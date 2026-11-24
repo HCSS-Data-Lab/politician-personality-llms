@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "politician-personality-llms"
+version = "0.1.0"
+description = "Companion code and model-generated responses for LLM personality ratings of politicians"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Jesse Kommandeur"}, {name = "Alessandro Dell'Orto"}]
+dependencies = ["numpy>=2.0", "pandas>=2.2", "scipy>=1.14", "statsmodels>=0.14"]
+
+[project.optional-dependencies]
+inference = ["openai>=1.40", "httpx>=0.28"]
+modal = ["modal>=1.5"]
+figures = ["matplotlib>=3.9"]
+test = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["pinf", "scripts"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = ["integration: recomputation requiring separately downloaded NEGex data"]

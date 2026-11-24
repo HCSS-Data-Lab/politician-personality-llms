@@ -1,0 +1,2 @@
+condition,n_leaders,n_distinct_contexts,n_unique_leader_contexts,share_unique_leader_contexts,note
+ROLE office/election + country,203,158,116,0.5714285714285714,"The prompt contains no explicit name, but a unique context can still enable indirect identification."

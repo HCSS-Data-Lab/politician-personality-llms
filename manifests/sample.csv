@@ -1,0 +1,204 @@
+leader_id,full_name,country,office,arm,identity,negex_ids,is_bridge,election_year,election_type
+c1s__afghanistan__abdullah_abdullah,Abdullah Abdullah,Afghanistan,Chief Executive,office-holder,"Abdullah Abdullah, Chief Executive of Afghanistan",AFG_P_20190928#cand2,0,2019,presidential
+c1s__afghanistan__ashraf_ghani,Ashraf Ghani,Afghanistan,President,office-holder,"Ashraf Ghani, President of Afghanistan",AFG_P_20190928#cand1,0,2019,presidential
+c1s__albania__lulzim_basha,Lulzim Basha,Albania,,candidate,"Lulzim Basha, a leading candidate in the 2017 legislative election in Albania",ALB_L_20170625#cand1,0,2017,legislative
+c1s__algeria__abdelmadjid_tebboune,Abdelmadjid Tebboune,Algeria,President,office-holder,"Abdelmadjid Tebboune, President of Algeria",DZA_P_20191212#cand1,0,2019,presidential
+c1s__algeria__ahmed_ouyahia,Ahmed Ouyahia,Algeria,Prime Minister,office-holder,"Ahmed Ouyahia, Prime Minister of Algeria",DZA_L_20170504#cand2,0,2017,legislative
+c1s__argentina__alberto_fernandez,Alberto Fernández,Argentina,President,office-holder,"Alberto Fernández, President of Argentina",ARG_P_20191027#cand1,0,2019,presidential
+c1s__argentina__cristina_fernandez_de_kirchner,Cristina Fernández de Kirchner,Argentina,President,office-holder,"Cristina Fernández de Kirchner, President of Argentina",ARG_L_20171022#cand2,1,2017,legislative
+c1s__argentina__mauricio_macri,Mauricio Macri,Argentina,President,office-holder,"Mauricio Macri, President of Argentina",ARG_L_20171022#cand1;ARG_P_20191027#cand2,1,2019,presidential
+c1s__armenia__gagik_tsarukyan,Gagik Tsarukyan,Armenia,,candidate,"Gagik Tsarukyan, a leading candidate in the 2018 legislative election in Armenia",ARM_L_20181209#cand2,0,2018,legislative
+c1s__armenia__serzh_sargsyan,Serzh Sargsyan,Armenia,President,office-holder,"Serzh Sargsyan, President of Armenia",ARM_L_20170402#cand1,1,2017,legislative
+c1s__australia__bill_shorten,Bill Shorten,Australia,,candidate,"Bill Shorten, a leading candidate in the 2019 legislative election in Australia",AUS_L_20160702#cand2;AUS_L_20190518#cand2,0,2019,legislative
+c1s__australia__pauline_hanson,Pauline Hanson,Australia,,candidate,"Pauline Hanson, a leading candidate in the 2019 legislative election in Australia",AUS_L_20190518#cand3,0,2019,legislative
+c1s__australia__richard_di_natale,Richard Di Natale,Australia,,candidate,"Richard Di Natale, a leading candidate in the 2016 legislative election in Australia",AUS_L_20160702#cand3,0,2016,legislative
+c1s__australia__scott_morrison,Scott Morrison,Australia,Prime Minister,office-holder,"Scott Morrison, Prime Minister of Australia",AUS_L_20190518#cand1,1,2019,legislative
+c1s__austria__alexander_van_der_bellen,Alexander Van der Bellen,Austria,President,office-holder,"Alexander Van der Bellen, President of Austria",AUT_P_20161204#cand2,0,2016,presidential
+c1s__austria__christian_kern,Christian Kern,Austria,Prime Minister,office-holder,"Christian Kern, Prime Minister of Austria",AUT_L_20171015#cand2,1,2017,legislative
+c1s__austria__heinz_christian_strache,Heinz-Christian Strache,Austria,,candidate,"Heinz-Christian Strache, a leading candidate in the 2017 legislative election in Austria",AUT_L_20171015#cand3,0,2017,legislative
+c1s__austria__norbert_hofer,Norbert Hofer,Austria,,candidate,"Norbert Hofer, a leading candidate in the 2019 legislative election in Austria",AUT_L_20190929#cand3;AUT_P_20161204#cand1,0,2019,legislative
+c1s__austria__sebastian_kurz,Sebastian Kurz,Austria,Prime Minister,office-holder,"Sebastian Kurz, Prime Minister of Austria",AUT_L_20171015#cand1;AUT_L_20190929#cand1,1,2019,legislative
+c1s__bangladesh__kamal_hossain,Kamal Hossain,Bangladesh,,candidate,"Kamal Hossain, a leading candidate in the 2018 legislative election in Bangladesh",BGD_L_20181230#cand2,0,2018,legislative
+c1s__bangladesh__sheikh_hasina,Sheikh Hasina,Bangladesh,Prime Minister,office-holder,"Sheikh Hasina, Prime Minister of Bangladesh",BGD_L_20181230#cand1,0,2018,legislative
+c1s__bolivia__evo_morales,Evo Morales,Bolivia,President,office-holder,"Evo Morales, President of Bolivia",BOL_P_20191020#cand1,1,2019,presidential
+c1s__botswana__mokgweetsi_masisi,Mokgweetsi Masisi,Botswana,President,office-holder,"Mokgweetsi Masisi, President of Botswana",BWA_L_20191023#cand1,0,2019,legislative
+c1s__brazil__ciro_gomes,Ciro Gomes,Brazil,,candidate,"Ciro Gomes, a leading candidate in the 2018 presidential election in Brazil",BRA_P_20181007#cand3,0,2018,presidential
+c1s__brazil__fernando_haddad,Fernando Haddad,Brazil,,candidate,"Fernando Haddad, a leading candidate in the 2018 presidential election in Brazil",BRA_P_20181007#cand2,0,2018,presidential
+c1s__brazil__jair_bolsonaro,Jair Bolsonaro,Brazil,President,office-holder,"Jair Bolsonaro, President of Brazil",BRA_P_20181007#cand1,1,2018,presidential
+c1s__bulgaria__boyko_borisov,Boyko Borisov,Bulgaria,Prime Minister,office-holder,"Boyko Borisov, Prime Minister of Bulgaria",BGR_L_20170326#cand1,1,2017,legislative
+c1s__bulgaria__korneliya_ninova,Korneliya Ninova,Bulgaria,,candidate,"Korneliya Ninova, a leading candidate in the 2017 legislative election in Bulgaria",BGR_L_20170326#cand2,0,2017,legislative
+c1s__bulgaria__rumen_radev,Rumen Radev,Bulgaria,President,office-holder,"Rumen Radev, President of Bulgaria",BGR_P_20161106#cand2,0,2016,presidential
+c1s__bulgaria__tsetska_tsacheva,Tsetska Tsacheva,Bulgaria,,candidate,"Tsetska Tsacheva, a leading candidate in the 2016 presidential election in Bulgaria",BGR_P_20161106#cand1,0,2016,presidential
+c1s__cameroon__joshua_osih,Joshua Osih,Cameroon,,candidate,"Joshua Osih, a leading candidate in the 2018 presidential election in Cameroon",CMR_P_20181007#cand2,0,2018,presidential
+c1s__cameroon__paul_biya,Paul Biya,Cameroon,President,office-holder,"Paul Biya, President of Cameroon",CMR_P_20181007#cand1,0,2018,presidential
+c1s__canada__andrew_scheer,Andrew Scheer,Canada,,candidate,"Andrew Scheer, a leading candidate in the 2019 legislative election in Canada",CAN_L_20191021#cand2,0,2019,legislative
+c1s__canada__justin_trudeau,Justin Trudeau,Canada,Prime Minister,office-holder,"Justin Trudeau, Prime Minister of Canada",CAN_L_20191021#cand1,1,2019,legislative
+c1s__canada__yves_francois_blanchet,Yves-François Blanchet,Canada,,candidate,"Yves-François Blanchet, a leading candidate in the 2019 legislative election in Canada",CAN_L_20191021#cand3,0,2019,legislative
+c1s__chile__sebastian_pinera,Sebastián Piñera,Chile,President,office-holder,"Sebastián Piñera, President of Chile",CHL_P_20171119#cand1,1,2017,presidential
+c1s__colombia__gustavo_petro,Gustavo Petro,Colombia,President,office-holder,"Gustavo Petro, President of Colombia",COL_P_20180527#cand2,1,2018,presidential
+c1s__colombia__ivan_duque_marquez,Iván Duque Márquez,Colombia,President,office-holder,"Iván Duque Márquez, President of Colombia",COL_P_20180527#cand1,0,2018,presidential
+c1s__costa_rica__antonio_alvarez,Antonio Álvarez,Costa Rica,,candidate,"Antonio Álvarez, a leading candidate in the 2018 presidential election in Costa Rica",CRI_P_20180204#cand2,0,2018,presidential
+c1s__costa_rica__fabricio_alvarado,Fabricio Alvarado,Costa Rica,,candidate,"Fabricio Alvarado, a leading candidate in the 2018 presidential election in Costa Rica",CRI_P_20180204#cand1,0,2018,presidential
+c1s__croatia__andrej_plenkovic,Andrej Plenković,Croatia,Prime Minister,office-holder,"Andrej Plenković, Prime Minister of Croatia",CRO_L_20160911#cand2,1,2016,legislative
+c1s__croatia__ivan_vilibor_sincic,Ivan Vilibor Sinčić,Croatia,,candidate,"Ivan Vilibor Sinčić, a leading candidate in the 2016 legislative election in Croatia",CRO_L_20160911#cand4,0,2016,legislative
+c1s__croatia__kolinda_grabar_kitarovic,Kolinda Grabar-Kitarović,Croatia,President,office-holder,"Kolinda Grabar-Kitarović, President of Croatia",CRO_P_20191222#cand2,0,2019,presidential
+c1s__croatia__zoran_milanovic,Zoran Milanović,Croatia,President,office-holder,"Zoran Milanović, President of Croatia",CRO_L_20160911#cand1;CRO_P_20191222#cand1,0,2019,presidential
+c1s__cyprus__nicos_anastasiades,Nicos Anastasiades,Cyprus,President,office-holder,"Nicos Anastasiades, President of Cyprus",CYP_P_20180128#cand1,0,2018,presidential
+c1s__cyprus__stavros_malas,Stavros Malas,Cyprus,,candidate,"Stavros Malas, a leading candidate in the 2018 presidential election in Cyprus",CYP_P_20180128#cand2,0,2018,presidential
+c1s__czechia__andrej_babis,Andrej Babiš,Czech Republic,Prime Minister,office-holder,"Andrej Babiš, Prime Minister of the Czech Republic",CZE_L_20171020#cand1,0,2017,legislative
+c1s__czechia__jiri_drahos,Jiří Drahoš,Czech Republic,,candidate,"Jiří Drahoš, a leading candidate in the 2018 presidential election in the Czech Republic",CZE_P_20180112#cand2,0,2018,presidential
+c1s__czechia__lubomir_zaoralek,Lubomír Zaorálek,Czech Republic,,candidate,"Lubomír Zaorálek, a leading candidate in the 2017 legislative election in the Czech Republic",CZE_L_20171020#cand2,0,2017,legislative
+c1s__czechia__milos_zeman,Miloš Zeman,Czech Republic,Prime Minister,office-holder,"Miloš Zeman, Prime Minister of Czechia",CZE_P_20180112#cand1,1,2018,presidential
+c1s__czechia__tomio_okamura,Tomio Okamura,Czech Republic,,candidate,"Tomio Okamura, a leading candidate in the 2017 legislative election in the Czech Republic",CZE_L_20171020#cand3,0,2017,legislative
+c1s__denmark__mette_frederiksen,Mette Frederiksen,Denmark,Prime Minister,office-holder,"Mette Frederiksen, Prime Minister of Denmark",DNK_L_20190605#cand1,0,2019,legislative
+c1s__ecuador__cynthia_viteri,Cynthia Viteri,Ecuador,,candidate,"Cynthia Viteri, a leading candidate in the 2017 presidential election in Ecuador",ECU_P_20170219#cand3,0,2017,presidential
+c1s__ecuador__guillermo_lasso,Guillermo Lasso,Ecuador,President,office-holder,"Guillermo Lasso, President of Ecuador",ECU_P_20170219#cand2,1,2017,presidential
+c1s__ecuador__lenin_moreno,Lenín Moreno,Ecuador,President,office-holder,"Lenín Moreno, President of Ecuador",ECU_P_20170219#cand1,1,2017,presidential
+c1s__estonia__kaja_kallas,Kaja Kallas,Estonia,Prime Minister,office-holder,"Kaja Kallas, Prime Minister of Estonia",EST_L_20190303#cand1,0,2019,legislative
+c1s__estonia__mart_helme,Mart Helme,Estonia,,candidate,"Mart Helme, a leading candidate in the 2019 legislative election in Estonia",EST_L_20190303#cand3,0,2019,legislative
+c1s__fiji__frank_bainimarama,Frank Bainimarama,Fiji,Prime Minister,office-holder,"Frank Bainimarama, Prime Minister of Fiji",FJI_L_20181114#cand1,0,2018,legislative
+c1s__finland__antti_rinne,Antti Rinne,Finland,Prime Minister,office-holder,"Antti Rinne, Prime Minister of Finland",FIN_L_20190414#cand1,0,2019,legislative
+c1s__finland__pekka_haavisto,Pekka Haavisto,Finland,,candidate,"Pekka Haavisto, a leading candidate in the 2018 presidential election in Finland",FIN_P_20180128#cand2,0,2018,presidential
+c1s__finland__petteri_orpo,Petteri Orpo,Finland,Prime Minister,office-holder,"Petteri Orpo, Prime Minister of Finland",FIN_L_20190414#cand2,0,2019,legislative
+c1s__finland__sauli_niinisto,Sauli Niinistö,Finland,President,office-holder,"Sauli Niinistö, President of Finland",FIN_P_20180128#cand1,0,2018,presidential
+c1s__france__emmanuel_macron,Emmanuel Macron,France,President,office-holder,"Emmanuel Macron, President of France",FRA_L_20170611#cand1;FRA_P_20170423#cand1,1,2017,legislative
+c1s__france__jean_luc_melenchon,Jean-Luc Mélenchon,France,,candidate,"Jean-Luc Mélenchon, a leading candidate in the 2017 presidential election in France",FRA_P_20170423#cand4,0,2017,presidential
+c1s__france__marine_le_pen,Marine Le Pen,France,,candidate,"Marine Le Pen, a leading candidate in the 2017 presidential election in France",FRA_P_20170423#cand2,0,2017,presidential
+c1s__georgia__davit_bakradze,Davit Bakradze,Georgia,,candidate,"Davit Bakradze, a leading candidate in the 2018 presidential election in Georgia",GRG_L_20161008#cand2;GRG_P_20181028#cand2,0,2018,presidential
+c1s__georgia__giorgi_kvirikashvili,Giorgi Kvirikashvili,Georgia,Prime Minister,office-holder,"Giorgi Kvirikashvili, Prime Minister of Georgia",GRG_L_20161008#cand1,1,2016,legislative
+c1s__georgia__salome_zurabishvili,Salome Zurabishvili,Georgia,President,office-holder,"Salome Zurabishvili, President of Georgia",GRG_P_20181028#cand1,0,2018,presidential
+c1s__germany__angela_merkel,Angela Merkel,Germany,Prime Minister,office-holder,"Angela Merkel, Prime Minister of Germany",DEU_L_20170924#cand1,1,2017,legislative
+c1s__ghana__john_dramani_mahama,John Dramani Mahama,Ghana,President,office-holder,"John Dramani Mahama, President of Ghana",GHA_P_20161207#cand1,0,2016,presidential
+c1s__ghana__nana_akufo_addo,Nana Akufo-Addo,Ghana,President,office-holder,"Nana Akufo-Addo, President of Ghana",GHA_P_20161207#cand2,0,2016,presidential
+c1s__greece__alexis_tsipras,Alexis Tsipras,Greece,Prime Minister,office-holder,"Alexis Tsipras, Prime Minister of Greece",GRC_L_20190707#cand2,0,2019,legislative
+c1s__greece__kyriakos_mitsotakis,Kyriakos Mitsotakis,Greece,Prime Minister,office-holder,"Kyriakos Mitsotakis, Prime Minister of Greece",GRC_L_20190707#cand1,0,2019,legislative
+c1s__greece__nikolaos_michaloliakos,Nikolaos Michaloliakos,Greece,,candidate,"Nikolaos Michaloliakos, a leading candidate in the 2019 legislative election in Greece",GRC_L_20190707#cand3,0,2019,legislative
+c1s__guatemala__alejandro_giammattei,Alejandro Giammattei,Guatemala,President,office-holder,"Alejandro Giammattei, President of Guatemala",GTM_P_20190811#cand2,1,2019,presidential
+c1s__guatemala__sandra_torres,Sandra Torres,Guatemala,,candidate,"Sandra Torres, a leading candidate in the 2019 presidential election in Guatemala",GTM_P_20190811#cand1,0,2019,presidential
+c1s__hungary__gabor_vona,Gábor Vona,Hungary,,candidate,"Gábor Vona, a leading candidate in the 2018 legislative election in Hungary",HUN_L_20180408#cand2,0,2018,legislative
+c1s__hungary__viktor_orban,Viktor Orbán,Hungary,Prime Minister,office-holder,"Viktor Orbán, Prime Minister of Hungary",HUN_L_20180408#cand1,1,2018,legislative
+c1s__iceland__birgitta_jonsdottir,Birgitta Jónsdóttir,Iceland,,candidate,"Birgitta Jónsdóttir, a leading candidate in the 2016 legislative election in Iceland",ICE_L_20161029#cand3,0,2016,legislative
+c1s__iceland__bjarni_benediktsson,Bjarni Benediktsson,Iceland,Prime Minister,office-holder,"Bjarni Benediktsson, Prime Minister of Iceland",ICE_L_20171028#cand1,0,2017,legislative
+c1s__iceland__david_oddsson,Davíð Oddsson,Iceland,Prime Minister,office-holder,"Davíð Oddsson, Prime Minister of Iceland",ICE_P_20160625#cand2,0,2016,presidential
+c1s__iceland__katrin_jakobsdottir,Katrín Jakobsdóttir,Iceland,Prime Minister,office-holder,"Katrín Jakobsdóttir, Prime Minister of Iceland",ICE_L_20161029#cand1;ICE_L_20171028#cand2,0,2017,legislative
+c1s__iceland__oddny_gudbjorg_hardardottir,Oddný Guðbjörg Harðardóttir,Iceland,,candidate,"Oddný Guðbjörg Harðardóttir, a leading candidate in the 2016 legislative election in Iceland",ICE_L_20161029#cand2,0,2016,legislative
+c1s__india__narendra_modi,Narendra Modi,India,Prime Minister,office-holder,"Narendra Modi, Prime Minister of India",IND_L_20190519#cand1,1,2019,legislative
+c1s__india__rahul_gandhi,Rahul Gandhi,India,,candidate,"Rahul Gandhi, a leading candidate in the 2019 legislative election in India",IND_L_20190519#cand2,0,2019,legislative
+c1s__indonesia__joko_widodo,Joko Widodo,Indonesia,President,office-holder,"Joko Widodo, President of Indonesia",IDN_P_20190417#cand1,1,2019,presidential
+c1s__indonesia__prabowo_subianto,Prabowo Subianto,Indonesia,President,office-holder,"Prabowo Subianto, President of Indonesia",IDN_P_20190417#cand2,0,2019,presidential
+c1s__iran__ebrahim_raisi,Ebrahim Raisi,Iran,President,office-holder,"Ebrahim Raisi, President of Iran",IRN_P_20170519#cand2,0,2017,presidential
+c1s__iran__hassan_rouhani,Hassan Rouhani,Iran,President,office-holder,"Hassan Rouhani, President of Iran",IRN_P_20170519#cand1,0,2017,presidential
+c1s__ireland__leo_varadkar,Leo Varadkar,Ireland,Prime Minister,office-holder,"Leo Varadkar, Prime Minister of Ireland",IRL_L_20200208#cand1,0,2020,legislative
+c1s__ireland__mary_lou_mcdonald,Mary Lou McDonald,Ireland,,candidate,"Mary Lou McDonald, a leading candidate in the 2020 legislative election in Ireland",IRL_L_20200208#cand2,0,2020,legislative
+c1s__israel__avi_gabbay,Avi Gabbay,Israel,,candidate,"Avi Gabbay, a leading candidate in the 2019 legislative election in Israel",ISR_L_20190409#cand2,0,2019,legislative
+c1s__israel__benjamin_netanyahu,Benjamin Netanyahu,Israel,Prime Minister,office-holder,"Benjamin Netanyahu, Prime Minister of Israel",ISR_L_20190409#cand1;ISR_L_20190917#cand2;ISR_L_20200302#cand2,1,2020,legislative
+c1s__israel__benny_gantz,Benny Gantz,Israel,,candidate,"Benny Gantz, a leading candidate in the 2020 legislative election in Israel",ISR_L_20190409#cand3;ISR_L_20190917#cand1;ISR_L_20200302#cand1,0,2020,legislative
+c1s__italy__luigi_di_maio,Luigi Di Maio,Italy,,candidate,"Luigi Di Maio, a leading candidate in the 2018 legislative election in Italy",ITA_L_20180304#cand4,0,2018,legislative
+c1s__italy__matteo_renzi,Matteo Renzi,Italy,Prime Minister,office-holder,"Matteo Renzi, Prime Minister of Italy",ITA_L_20180304#cand1,1,2018,legislative
+c1s__italy__matteo_salvini,Matteo Salvini,Italy,,candidate,"Matteo Salvini, a leading candidate in the 2018 legislative election in Italy",ITA_L_20180304#cand3,0,2018,legislative
+c1s__italy__silvio_berlusconi,Silvio Berlusconi,Italy,Prime Minister,office-holder,"Silvio Berlusconi, Prime Minister of Italy",ITA_L_20180304#cand2,1,2018,legislative
+c1s__japan__natsuo_yamaguchi,Natsuo Yamaguchi,Japan,,candidate,"Natsuo Yamaguchi, a leading candidate in the 2017 legislative election in Japan",JAP_L_20160710#cand3;JAP_L_20171022#cand3,0,2017,legislative
+c1s__japan__shinzo_abe,Shinzō Abe,Japan,Prime Minister,office-holder,"Shinzō Abe, Prime Minister of Japan",JAP_L_20160710#cand1;JAP_L_20171022#cand1;JAP_L_20190721#cand1,1,2019,legislative
+c1s__japan__yukio_edano,Yukio Edano,Japan,,candidate,"Yukio Edano, a leading candidate in the 2019 legislative election in Japan",JAP_L_20160710#cand2;JAP_L_20190721#cand2,0,2019,legislative
+c1s__japan__yuriko_koike,Yuriko Koike,Japan,,candidate,"Yuriko Koike, a leading candidate in the 2017 legislative election in Japan",JAP_L_20171022#cand2,0,2017,legislative
+c1s__kosovo__albin_kurti,Albin Kurti,Kosovo,Prime Minister,office-holder,"Albin Kurti, Prime Minister of Kosovo",XKX_L_20170611#cand3;XKX_L_20191006#cand1,0,2019,legislative
+c1s__kosovo__isa_mustafa,Isa Mustafa,Kosovo,Prime Minister,office-holder,"Isa Mustafa, Prime Minister of Kosovo",XKX_L_20191006#cand2,0,2019,legislative
+c1s__kosovo__kadri_veseli,Kadri Veseli,Kosovo,,candidate,"Kadri Veseli, a leading candidate in the 2019 legislative election in Kosovo",XKX_L_20191006#cand3,0,2019,legislative
+c1s__kosovo__ramush_haradinaj,Ramush Haradinaj,Kosovo,Prime Minister,office-holder,"Ramush Haradinaj, Prime Minister of Kosovo",XKX_L_20170611#cand1,0,2017,legislative
+c1s__latvia__vjaceslavs_dombrovskis,Vjačeslavs Dombrovskis,Latvia,,candidate,"Vjačeslavs Dombrovskis, a leading candidate in the 2018 legislative election in Latvia",LVA_L_20181006#cand1,0,2018,legislative
+c1s__lesotho__tom_thabane,Tom Thabane,Lesotho,Prime Minister,office-holder,"Tom Thabane, Prime Minister of Lesotho",LSO_L_20170603#cand1,0,2017,legislative
+c1s__lithuania__algirdas_butkevicius,Algirdas Butkevičius,Lithuania,Prime Minister,office-holder,"Algirdas Butkevičius, Prime Minister of Lithuania",LTH_L_20161009#cand1,1,2016,legislative
+c1s__lithuania__gabrielius_landsbergis,Gabrielius Landsbergis,Lithuania,,candidate,"Gabrielius Landsbergis, a leading candidate in the 2016 legislative election in Lithuania",LTH_L_20161009#cand2,0,2016,legislative
+c1s__lithuania__gitanas_nauseda,Gitanas Nausėda,Lithuania,President,office-holder,"Gitanas Nausėda, President of Lithuania",LTH_P_20190512#cand2,0,2019,presidential
+c1s__lithuania__ingrida_simonyte,Ingrida Šimonytė,Lithuania,Prime Minister,office-holder,"Ingrida Šimonytė, Prime Minister of Lithuania",LTH_P_20190512#cand1,0,2019,presidential
+c1s__lithuania__ramunas_karbauskis,Ramūnas Karbauskis,Lithuania,,candidate,"Ramūnas Karbauskis, a leading candidate in the 2016 legislative election in Lithuania",LTH_L_20161009#cand3,0,2016,legislative
+c1s__north_macedonia__nikola_gruevski,Nikola Gruevski,Macedonia,Prime Minister,office-holder,"Nikola Gruevski, Prime Minister of North Macedonia",MKD_L_20161211#cand1,1,2016,legislative
+c1s__north_macedonia__zoran_zaev,Zoran Zaev,Macedonia,Prime Minister,office-holder,"Zoran Zaev, Prime Minister of Macedonia",MKD_L_20161211#cand2,0,2016,legislative
+c1s__madagascar__andry_rajoelina,Andry Rajoelina,Madagascar,President,office-holder,"Andry Rajoelina, President of Madagascar",MDG_P_20181107#cand1,0,2018,presidential
+c1s__malaysia__mahathir_mohamad,Mahathir Mohamad,Malaysia,Prime Minister,office-holder,"Mahathir Mohamad, Prime Minister of Malaysia",MYS_L_20180509#cand2,1,2018,legislative
+c1s__malaysia__najib_razak,Najib Razak,Malaysia,Prime Minister,office-holder,"Najib Razak, Prime Minister of Malaysia",MYS_L_20180509#cand1,1,2018,legislative
+c1s__malta__joseph_muscat,Joseph Muscat,Malta,Prime Minister,office-holder,"Joseph Muscat, Prime Minister of Malta",MLT_L_20170603#cand1,0,2017,legislative
+c1s__malta__simon_busuttil,Simon Busuttil,Malta,,candidate,"Simon Busuttil, a leading candidate in the 2017 legislative election in Malta",MLT_L_20170603#cand2,0,2017,legislative
+c1s__mexico__andres_manuel_lopez_obrador,Andrés Manuel López Obrador,Mexico,President,office-holder,"Andrés Manuel López Obrador, President of Mexico",MEX_P_20180701#cand1,1,2018,presidential
+c1s__mexico__ricardo_anaya,Ricardo Anaya,Mexico,,candidate,"Ricardo Anaya, a leading candidate in the 2018 presidential election in Mexico",MEX_P_20180701#cand2,0,2018,presidential
+c1s__moldova__andrei_nastase,Andrei Năstase,Moldova,,candidate,"Andrei Năstase, a leading candidate in the 2019 legislative election in Moldova",MDV_L_20190224#cand2,0,2019,legislative
+c1s__moldova__igor_dodon,Igor Dodon,Moldova,President,office-holder,"Igor Dodon, President of Moldova",MDV_P_20161030#cand1,0,2016,presidential
+c1s__moldova__maia_sandu,Maia Sandu,Moldova,President,office-holder,"Maia Sandu, President of Moldova",MDV_P_20161030#cand2,0,2016,presidential
+c1s__moldova__zinaida_greceanii,Zinaida Greceanîi,Moldova,Prime Minister,office-holder,"Zinaida Greceanîi, Prime Minister of Moldova",MDV_L_20190224#cand1,0,2019,legislative
+c1s__montenegro__marko_milacic,Marko Milačić,Montenegro,,candidate,"Marko Milačić, a leading candidate in the 2018 presidential election in Montenegro",MTN_P_20180415#cand2,0,2018,presidential
+c1s__montenegro__milo_dukanovic,Milo Đukanović,Montenegro,President,office-holder,"Milo Đukanović, President of Montenegro",MTN_L_20161016#cand1;MTN_P_20180415#cand1,0,2018,presidential
+c1s__montenegro__miodrag_lekic,Miodrag Lekić,Montenegro,,candidate,"Miodrag Lekić, a leading candidate in the 2016 legislative election in Montenegro",MTN_L_20161016#cand2,0,2016,legislative
+c1s__morocco__abdelilah_benkirane,Abdelilah Benkirane,Morocco,Head of Government,office-holder,"Abdelilah Benkirane, Head of Government of Morocco",MRC_L_20161007#cand1,0,2016,legislative
+c1s__mozambique__filipe_nyusi,Filipe Nyusi,Mozambique,President,office-holder,"Filipe Nyusi, President of Mozambique",MOZ_P_20191015#cand1,0,2019,presidential
+c1s__new_zealand__bill_english,Bill English,New Zealand,Prime Minister,office-holder,"Bill English, Prime Minister of New Zealand",NZL_L_20170923#cand1,0,2017,legislative
+c1s__new_zealand__jacinda_ardern,Jacinda Ardern,New Zealand,Prime Minister,office-holder,"Jacinda Ardern, Prime Minister of New Zealand",NZL_L_20170923#cand2,0,2017,legislative
+c1s__nicaragua__daniel_ortega,Daniel Ortega,Nicaragua,President,office-holder,"Daniel Ortega, President of Nicaragua",NIC_P_20161106#cand1,1,2016,presidential
+c1s__north_macedonia__gordana_siljanovska_davkova,Gordana Siljanovska-Davkova,North Macedonia,President,office-holder,"Gordana Siljanovska-Davkova, President of North Macedonia",MKD_P_20190421#cand2,0,2019,presidential
+c1s__north_macedonia__stevo_pendarovski,Stevo Pendarovski,North Macedonia,President,office-holder,"Stevo Pendarovski, President of North Macedonia",MKD_P_20190421#cand1,0,2019,presidential
+c1s__northern_ireland__arlene_foster,Arlene Foster,Northern Ireland,,candidate,"Arlene Foster, a leading candidate in the 2017 legislative election in Northern Ireland",NIR_L_20170302#cand1,0,2017,legislative
+c1s__northern_ireland__michelle_o_neill,Michelle O'Neill,Northern Ireland,,candidate,"Michelle O'Neill, a leading candidate in the 2017 legislative election in Northern Ireland",NIR_L_20170302#cand2,0,2017,legislative
+c1s__norway__erna_solberg,Erna Solberg,Norway,Prime Minister,office-holder,"Erna Solberg, Prime Minister of Norway",NOR_L_20170911#cand2,1,2017,legislative
+c1s__norway__jonas_gahr_store,Jonas Gahr Støre,Norway,Prime Minister,office-holder,"Jonas Gahr Støre, Prime Minister of Norway",NOR_L_20170911#cand1,0,2017,legislative
+c1s__norway__siv_jensen,Siv Jensen,Norway,,candidate,"Siv Jensen, a leading candidate in the 2017 legislative election in Norway",NOR_L_20170911#cand3,0,2017,legislative
+c1s__pakistan__imran_khan,Imran Khan,Pakistan,Prime Minister,office-holder,"Imran Khan, Prime Minister of Pakistan",PAK_L_20180725#cand2,0,2018,legislative
+c1s__pakistan__shehbaz_sharif,Shehbaz Sharif,Pakistan,Prime Minister,office-holder,"Shehbaz Sharif, Prime Minister of Pakistan",PAK_L_20180725#cand1,0,2018,legislative
+c1s__papua_new_guinea__don_polye,Don Polye,Papua New Guinea,,candidate,"Don Polye, a leading candidate in the 2017 legislative election in Papua New Guinea",PNG_L_20170624#cand2,0,2017,legislative
+c1s__philippines__rodrigo_duterte,Rodrigo Duterte,Philippines,President,office-holder,"Rodrigo Duterte, President of Philippines",PHL_L_20190513#cand1,1,2019,legislative
+c1s__poland__grzegorz_schetyna,Grzegorz Schetyna,Poland,,candidate,"Grzegorz Schetyna, a leading candidate in the 2019 legislative election in Poland",POL_L_20191013#cand2,0,2019,legislative
+c1s__poland__jaroslaw_kaczynski,Jarosław Kaczyński,Poland,Prime Minister,office-holder,"Jarosław Kaczyński, Prime Minister of Poland",POL_L_20191013#cand1,1,2019,legislative
+c1s__portugal__antonio_costa,António Costa,Portugal,Prime Minister,office-holder,"António Costa, Prime Minister of Portugal",PRT_L_20191006#cand1,0,2019,legislative
+c1s__portugal__catarina_martins,Catarina Martins,Portugal,,candidate,"Catarina Martins, a leading candidate in the 2019 legislative election in Portugal",PRT_L_20191006#cand3,0,2019,legislative
+c1s__portugal__rui_rio,Rui Rio,Portugal,,candidate,"Rui Rio, a leading candidate in the 2019 legislative election in Portugal",PRT_L_20191006#cand2,0,2019,legislative
+c1s__romania__alina_gorghiu,Alina Gorghiu,Romania,,candidate,"Alina Gorghiu, a leading candidate in the 2016 legislative election in Romania",ROU_L_20161211#cand2,0,2016,legislative
+c1s__romania__klaus_iohannis,Klaus Iohannis,Romania,President,office-holder,"Klaus Iohannis, President of Romania",ROU_P_20191110#cand1,1,2019,presidential
+c1s__romania__liviu_dragnea,Liviu Dragnea,Romania,,candidate,"Liviu Dragnea, a leading candidate in the 2016 legislative election in Romania",ROU_L_20161211#cand1,0,2016,legislative
+c1s__romania__viorica_dancila,Viorica Dăncilă,Romania,Prime Minister,office-holder,"Viorica Dăncilă, Prime Minister of Romania",ROU_P_20191110#cand2,0,2019,presidential
+c1s__russia__dmitry_medvedev,Dmitry Medvedev,Russia,President,office-holder,"Dmitry Medvedev, President of Russia",RUS_L_20160918#cand1,1,2016,legislative
+c1s__russia__gennady_zyuganov,Gennady Zyuganov,Russia,,candidate,"Gennady Zyuganov, a leading candidate in the 2016 legislative election in Russia",RUS_L_20160918#cand2,0,2016,legislative
+c1s__russia__pavel_grudinin,Pavel Grudinin,Russia,,candidate,"Pavel Grudinin, a leading candidate in the 2018 presidential election in Russia",RUS_P_20180318#cand2,0,2018,presidential
+c1s__russia__vladimir_putin,Vladimir Putin,Russia,President,office-holder,"Vladimir Putin, President of Russia",RUS_P_20180318#cand1,1,2018,presidential
+c1s__russia__vladimir_zhirinovsky,Vladimir Zhirinovsky,Russia,,candidate,"Vladimir Zhirinovsky, a leading candidate in the 2018 presidential election in Russia",RUS_L_20160918#cand4;RUS_P_20180318#cand3,0,2018,presidential
+c1s__rwanda__frank_habineza,Frank Habineza,Rwanda,,candidate,"Frank Habineza, a leading candidate in the 2017 presidential election in Rwanda",RWA_P_20170804#cand2,0,2017,presidential
+c1s__serbia__aleksandar_vucic,Aleksandar Vučić,Serbia,Prime Minister,office-holder,"Aleksandar Vučić, Prime Minister of Serbia",SRB_P_20170402#cand1,1,2017,presidential
+c1s__serbia__sasa_jankovic,Saša Janković,Serbia,,candidate,"Saša Janković, a leading candidate in the 2017 presidential election in Serbia",SRB_P_20170402#cand2,0,2017,presidential
+c1s__slovakia__marian_kotleba,Marian Kotleba,Slovakia,,candidate,"Marian Kotleba, a leading candidate in the 2020 legislative election in Slovakia",SVK_L_20200229#cand1;SVK_P_20190316#cand3,0,2020,legislative
+c1s__slovakia__maros_sefcovic,Maroš Šefčovič,Slovakia,,candidate,"Maroš Šefčovič, a leading candidate in the 2019 presidential election in Slovakia",SVK_P_20190316#cand2,0,2019,presidential
+c1s__slovakia__peter_pellegrini,Peter Pellegrini,Slovakia,President,office-holder,"Peter Pellegrini, President of Slovakia",SVK_L_20200229#cand2,0,2020,legislative
+c1s__slovakia__zuzana_caputova,Zuzana Čaputová,Slovakia,President,office-holder,"Zuzana Čaputová, President of Slovakia",SVK_P_20190316#cand1,0,2019,presidential
+c1s__slovenia__janez_jansa,Janez Janša,Slovenia,Prime Minister,office-holder,"Janez Janša, Prime Minister of Slovenia",SVN_L_20180603#cand1,1,2018,legislative
+c1s__south_africa__cyril_ramaphosa,Cyril Ramaphosa,South Africa,President,office-holder,"Cyril Ramaphosa, President of South Africa",ZAF_L_20190508#cand1,1,2019,legislative
+c1s__south_africa__mmusi_maimane,Mmusi Maimane,South Africa,,candidate,"Mmusi Maimane, a leading candidate in the 2019 legislative election in South Africa",ZAF_L_20190508#cand2,0,2019,legislative
+c1s__spain__albert_rivera,Albert Rivera,Spain,,candidate,"Albert Rivera, a leading candidate in the 2016 legislative election in Spain",ESP_L_20160626#cand4,0,2016,legislative
+c1s__spain__mariano_rajoy,Mariano Rajoy,Spain,Prime Minister,office-holder,"Mariano Rajoy, Prime Minister of Spain",ESP_L_20160626#cand1,1,2016,legislative
+c1s__spain__pablo_casado,Pablo Casado,Spain,,candidate,"Pablo Casado, a leading candidate in the 2019 legislative election in Spain",ESP_L_20190428#cand1;ESP_L_20191110#cand1,0,2019,legislative
+c1s__spain__pedro_sanchez,Pedro Sánchez,Spain,Prime Minister,office-holder,"Pedro Sánchez, Prime Minister of Spain",ESP_L_20160626#cand2;ESP_L_20190428#cand2;ESP_L_20191110#cand2,0,2019,legislative
+c1s__spain__santiago_abascal,Santiago Abascal,Spain,,candidate,"Santiago Abascal, a leading candidate in the 2019 legislative election in Spain",ESP_L_20190428#cand3;ESP_L_20191110#cand3,0,2019,legislative
+c1s__sweden__jimmie_akesson,Jimmie Åkesson,Sweden,,candidate,"Jimmie Åkesson, a leading candidate in the 2018 legislative election in Sweden",SWE_L_20180909#cand2,0,2018,legislative
+c1s__sweden__stefan_lofven,Stefan Löfven,Sweden,Prime Minister,office-holder,"Stefan Löfven, Prime Minister of Sweden",SWE_L_20180909#cand1,1,2018,legislative
+c1s__thailand__prayut_chan_o_cha,Prayut Chan-o-cha,Thailand,Prime Minister,office-holder,"Prayut Chan-o-cha, Prime Minister of Thailand",THA_L_20190324#cand1,0,2019,legislative
+c1s__thailand__sudarat_keyuraphan,Sudarat Keyuraphan,Thailand,,candidate,"Sudarat Keyuraphan, a leading candidate in the 2019 legislative election in Thailand",THA_L_20190324#cand2,0,2019,legislative
+c1s__the_bahamas__hubert_minnis,Hubert Minnis,The Bahamas,Prime Minister,office-holder,"Hubert Minnis, Prime Minister of the Bahamas",BHS_L_20170510#cand2,0,2017,legislative
+c1s__the_bahamas__perry_christie,Perry Christie,The Bahamas,Prime Minister,office-holder,"Perry Christie, Prime Minister of the Bahamas",BHS_L_20170510#cand1,0,2017,legislative
+c1s__netherlands__geert_wilders,Geert Wilders,The Netherlands,,candidate,"Geert Wilders, a leading candidate in the 2017 legislative election in the Netherlands",NLD_L_20170315#cand1,0,2017,legislative
+c1s__netherlands__mark_rutte,Mark Rutte,The Netherlands,Prime Minister,office-holder,"Mark Rutte, Prime Minister of Netherlands",NLD_L_20170315#cand2,1,2017,legislative
+c1s__netherlands__sybrand_van_haersma_buma,Sybrand van Haersma Buma,The Netherlands,,candidate,"Sybrand van Haersma Buma, a leading candidate in the 2017 legislative election in the Netherlands",NLD_L_20170315#cand3,0,2017,legislative
+c1s__timor_leste__francisco_lu_olo_guterres,Francisco 'Lú-Olo' Guterres,Timor Leste,President,office-holder,"Francisco 'Lú-Olo' Guterres, President of Timor-Leste",TLS_P_20170320#cand1,0,2017,presidential
+c1s__timor_leste__mari_alkatiri,Mari Alkatiri,Timor Leste,Prime Minister,office-holder,"Mari Alkatiri, Prime Minister of Timor-Leste",TLS_L_20170722#cand1;TLS_L_20180512#cand1,0,2018,legislative
+c1s__turkey__muharrem_ince,Muharrem İnce,Turkey,,candidate,"Muharrem İnce, a leading candidate in the 2018 presidential election in Turkey",TUR_P_20180624#cand2,0,2018,presidential
+c1s__turkey__recep_tayyip_erdogan,Recep Tayyip Erdoğan,Turkey,Prime Minister,office-holder,"Recep Tayyip Erdoğan, Prime Minister of Turkey",TUR_P_20180624#cand1,1,2018,presidential
+c1s__uk__boris_johnson,Boris Johnson,UK,Prime Minister,office-holder,"Boris Johnson, Prime Minister of the United Kingdom",GBR_L_20191212#cand1,0,2019,legislative
+c1s__uk__jeremy_corbyn,Jeremy Corbyn,UK,,candidate,"Jeremy Corbyn, a leading candidate in the 2019 legislative election in the United Kingdom",GBR_L_20170608#cand2;GBR_L_20191212#cand2,0,2019,legislative
+c1s__uk__nicola_sturgeon,Nicola Sturgeon,UK,,candidate,"Nicola Sturgeon, a leading candidate in the 2019 legislative election in the United Kingdom",GBR_L_20191212#cand3,0,2019,legislative
+c1s__uk__paul_nuttall,Paul Nuttall,UK,,candidate,"Paul Nuttall, a leading candidate in the 2017 legislative election in the United Kingdom",GBR_L_20170608#cand3,0,2017,legislative
+c1s__uk__theresa_may,Theresa May,UK,Prime Minister,office-holder,"Theresa May, Prime Minister of UK",GBR_L_20170608#cand1,1,2017,legislative
+c1s__uk__tim_farron,Tim Farron,UK,,candidate,"Tim Farron, a leading candidate in the 2017 legislative election in the United Kingdom",GBR_L_20170608#cand4,0,2017,legislative
+c1s__united_states__donald_trump,Donald Trump,USA,President,office-holder,"Donald Trump, President of United States",USA_P_20161108#cand2,1,2016,presidential
+c1s__united_states__hillary_clinton,Hillary Clinton,USA,,candidate,"Hillary Clinton, a leading candidate in the 2016 presidential election in the United States",USA_P_20161108#cand1,0,2016,presidential
+c1s__ukraine__dmytro_razumkov,Dmytro Razumkov,Ukraine,,candidate,"Dmytro Razumkov, a leading candidate in the 2019 legislative election in Ukraine",UKR_L_20190721#cand1,0,2019,legislative
+c1s__ukraine__volodymyr_zelensky,Volodymyr Zelensky,Ukraine,President,office-holder,"Volodymyr Zelensky, President of Ukraine",UKR_P_20190331#cand1,0,2019,presidential
+c1s__ukraine__yulia_tymoshenko,Yulia Tymoshenko,Ukraine,Prime Minister,office-holder,"Yulia Tymoshenko, Prime Minister of Ukraine",UKR_L_20190721#cand2;UKR_P_20190331#cand2,1,2019,legislative
+c1s__uruguay__daniel_martinez,Daniel Martínez,Uruguay,,candidate,"Daniel Martínez, a leading candidate in the 2019 presidential election in Uruguay",URY_P_20191027#cand1,0,2019,presidential
+c1s__uruguay__luis_lacalle_pou,Luis Lacalle Pou,Uruguay,President,office-holder,"Luis Lacalle Pou, President of Uruguay",URY_P_20191027#cand2,1,2019,presidential
+c1s__uzbekistan__shavkat_mirziyoyev,Shavkat Mirziyoyev,Uzbekistan,President,office-holder,"Shavkat Mirziyoyev, President of Uzbekistan",UZB_P_20161204#cand1,0,2016,presidential
+c1s__zimbabwe__emmerson_mnangagwa,Emmerson Mnangagwa,Zimbabwe,President,office-holder,"Emmerson Mnangagwa, President of Zimbabwe",ZWE_P_20180730#cand1,0,2018,presidential
+c1s__zimbabwe__nelson_chamisa,Nelson Chamisa,Zimbabwe,,candidate,"Nelson Chamisa, a leading candidate in the 2018 presidential election in Zimbabwe",ZWE_P_20180730#cand2,0,2018,presidential

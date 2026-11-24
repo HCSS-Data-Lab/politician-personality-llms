@@ -1,0 +1,12 @@
+{
+  "bootstrap_resamples": 2000,
+  "seed": 20260706,
+  "ci_level": 0.95,
+  "ideology_bootstrap_resamples": 5000,
+  "ideology_seed": 20260919,
+  "within_expert_item_correlations": [
+    0,
+    0.3,
+    0.5
+  ]
+}

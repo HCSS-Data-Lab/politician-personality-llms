@@ -1,0 +1,8 @@
+combination,variables,n_complete,n_unique_rows,share_unique
+country + election year,country;election_year,203,31,0.15270935960591134
+country + election year + election type,country;election_year;election_type,203,34,0.16748768472906403
+country + party + election year,country;c_party;election_year,203,197,0.9704433497536946
+country + office + election year,country;office;election_year,119,79,0.6638655462184874
+country + election type + year + incumbency,country;election_type;election_year;incumbent,203,126,0.6206896551724138
+country + office,country;office,119,62,0.5210084033613446
+country + ideology(13) + incumbency + year,country;candidate_position_13;incumbent;election_year,201,195,0.9701492537313433

@@ -1,0 +1,18 @@
+# External datasets and locally derived criterion values never belong in the release.
+data/
+outputs/
+.env
+.env.*
+!.env.example
+.modal.toml
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+.DS_Store
+*:Zone.Identifier
